@@ -1,0 +1,10 @@
+System Requirements:
+
+Python 3.8+
+Google Chrome (latest version recommended)
+ChromeDriver (matching your Chrome version)
+Internet connection
+
+
+Library :
+pip install selenium
